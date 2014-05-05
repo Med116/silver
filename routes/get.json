@@ -1,4 +1,3 @@
 {
-	
-	"hello": "^/hello/$"
+	"hello_world": "^/hello/(.+)/$"
 }
