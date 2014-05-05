@@ -9,7 +9,7 @@
   },
   "bin":{
     "new":"./lib/new.js"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "http://github.com/Med116/silver"
