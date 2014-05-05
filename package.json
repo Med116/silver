@@ -1,5 +1,5 @@
 {
-  "name": "toutdesuite",
+  "name": "silver",
   "version": "0.0.0",
   "description": "a web server that is easy to route paths to modules",
   "main": "server.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/Med116/toutedesuite"
+    "url": "http://github.com/Med116/silver"
   },
   "keywords": [
     "web",
@@ -27,7 +27,7 @@
   "author": "mark davis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Med116/toutedesuite/issues"
+    "url": "https://github.com/Med116/silver/issues"
   },
-  "homepage": "https://github.com/Med116/toutedesuite"
+  "homepage": "https://github.com/Med116/silver"
 }
