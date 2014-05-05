@@ -1,0 +1,7 @@
+{
+	"apple": "/apple/[0-9]+",
+	"orange": "/orange/[0-9]+",
+	"module": "^/user/[0-9]+",
+	"profile": "^/user/[0-9]+",
+	"user_page": "^/user/[0-9]+"
+}
