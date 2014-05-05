@@ -1,0 +1,33 @@
+{
+  "name": "toutdesuite",
+  "version": "0.0.0",
+  "description": "a web server that is easy to route paths to modules",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Med116/toutedesuite"
+  },
+  "keywords": [
+    "web",
+    "http",
+    "server",
+    "route",
+    "modules",
+    "paths",
+    "post",
+    "get",
+    "response",
+    "request",
+    "webpage-server"
+  ],
+  "author": "mark davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Med116/toutedesuite/issues"
+  },
+  "homepage": "https://github.com/Med116/toutedesuite"
+}
